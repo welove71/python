@@ -1,9 +1,16 @@
-print("나는 %d살입니다." %20)
-print("나는 %s을 좋아해요." %"파이썬")
 
-age = 20
-color = "red"
-print(f"나는 {age}살이며, {color}색을 좋아해요.")
+
+
+
+
+
+
+# print("나는 %d살입니다." %20)
+# print("나는 %s을 좋아해요." %"파이썬")
+
+# age = 20
+# color = "red"
+# print(f"나는 {age}살이며, {color}색을 좋아해요.")
 
 
 
